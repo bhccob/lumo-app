@@ -7,7 +7,9 @@
 <p align="center">Your recipes, in aisle order.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-coming_soon-0E7F22?style=for-the-badge&logo=android&logoColor=white" alt="Android, coming soon">
+  <a href="https://github.com/bhccob/lumo-app/releases/latest/download/lumo.apk">
+    <img src="https://img.shields.io/badge/Download_for_Android-0E7F22?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
+  </a>
 </p>
 
 <p align="center">
